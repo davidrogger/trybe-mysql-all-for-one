@@ -1,1 +1,1 @@
-// Iniciando PR
+SELECT product_name FROM northwind.products;
