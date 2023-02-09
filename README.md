@@ -83,7 +83,7 @@
     </strong>
   </summary>
 
-  - [x] - ~~Criar aplicação com base nos requisitos da trybe.~~ ![data](https://badgen.net/badge/delivery/17-05-2022/green)
+  - [x] - ~~Criar aplicação com base nos requisitos da trybe.~~ ![data](https://badgen.net/badge/delivery/25-05-2022/green)
 
 </details>
 
