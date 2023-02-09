@@ -2,7 +2,9 @@
 
 ## Seção: `Introdução à SQL`
 
-- lore
+- Tivemos uma intro sobre o que são banco de dados, e seus diferentes tipos, relacionais e não relacionais.
+- Inicialmente o foco foi em Bancos relacionais usando o tipo de tabela SQL.
+- SQL (Structured Query Language) é a mais usada para criar, pesquisar, extrair e manipular dados em um banco relacional.
 #
 <div align="center">
   <a href="#">
@@ -20,6 +22,7 @@
 
 # Tecnologias e ferramentas usadas 🛠
 
+![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker)
 ![MYSQL](https://img.shields.io/badge/-MySQL-EAA221?style=flat-square&logo=mysql&logoColor=1e4c68)
 
 
