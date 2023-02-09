@@ -9,7 +9,7 @@
   <a href="#">
     <img width="30%" src="./readme-imgs/project_top.webp">
     <img width="30%" src="./readme-imgs/project_mid.webp">
-    <img width="30%" src="./readme-imgs/project_bottom.webp">
+    <img width="30%" src="./readme-imgs/project_bot.webp">
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 #
 ## Projeto: `All for One`
 
-- Apesar de apontar como projeto para manter um padrão conforme do curso, foi uma prática SQL, realizando queries para localizar e filtrar informações em um banco mysql.
+- Apesar de apontar como projeto para manter um padrão conforme do curso, foi uma prática SQL, criando um banco mysql em um container, por meio do workbench foi acessado esse banco e realizado [queries](https://github.com/davidrogger/trybe-mysql-all-for-one/tree/readme-update/queries) para localizar e filtrar informações no banco.
 
 # Tecnologias e ferramentas usadas 🛠
 
