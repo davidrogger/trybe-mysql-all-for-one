@@ -3,7 +3,7 @@
 ## Seção: `Introdução à SQL`
 
 - SQL (Structured Query Language) é a mais usada para criar, pesquisar, extrair e manipular dados em um banco relacional.
-- Principal foco nessa seção foi aprender e se familiarizar com as buscas realizadas usando o workbench para ter uma melhor visibilidade do banco MySQL em um container docker.
+- Principal foco nessa seção foi aprender e criar uma familiaridade com as buscas realizadas usando o workbench para ter uma melhor visibilidade do banco MySQL em um container docker.
 #
 <div align="center">
   <a href="#">
