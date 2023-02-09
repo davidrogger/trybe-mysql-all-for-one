@@ -2,9 +2,8 @@
 
 ## Seção: `Introdução à SQL`
 
-- Tivemos uma intro sobre o que são banco de dados, e seus diferentes tipos, relacionais e não relacionais.
-- Inicialmente o foco foi em Bancos relacionais usando o tipo de tabela SQL.
 - SQL (Structured Query Language) é a mais usada para criar, pesquisar, extrair e manipular dados em um banco relacional.
+- Principal foco nessa seção foi aprender e familiarizar com as buscas realizadas usando o Workbench para ter uma melhor visibilidade do banco MySQL em um container docker.
 #
 <div align="center">
   <a href="#">
