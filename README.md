@@ -3,7 +3,7 @@
 ## Seção: `Introdução à SQL`
 
 - SQL (Structured Query Language) é a mais usada para criar, pesquisar, extrair e manipular dados em um banco relacional.
-- Principal foco nessa seção foi aprender e familiarizar com as buscas realizadas usando o Workbench para ter uma melhor visibilidade do banco MySQL em um container docker.
+- Principal foco nessa seção foi aprender e se familiarizar com as buscas realizadas usando o workbench para ter uma melhor visibilidade do banco MySQL em um container docker.
 #
 <div align="center">
   <a href="#">
@@ -17,7 +17,7 @@
 #
 ## Projeto: `All for One`
 
-- Apesar de apontar como projeto para manter um padrão conforme do curso, foi uma prática SQL, realizando queries para localizar e filtrar informações em um banco de dados.
+- Apesar de apontar como projeto para manter um padrão conforme do curso, foi uma prática SQL, realizando queries para localizar e filtrar informações em um banco mysql.
 
 # Tecnologias e ferramentas usadas 🛠
 
@@ -27,11 +27,11 @@
 
 # Desafios
 
-- Mesmo absovendo todo conteudo do curso, não há como o curso apresentar todas situações se não aplicando um pequeno testes, colocando a gente na situação, a atividade promovel bem queries interessantes que são necessários no dia a dia, usando um banco.
+- Mesmo absorvendo todo conteúdo do curso, não melhor forma de consolidar se não aplicando na prática, a atividade promoveu bem, queries necessários no dia a dia.
 
 # Conclusão
 
-- Assim como a seção anterior foi mais a receita do bolo, entender a sintaxe necessário para realizar a ação necessária na busca.
+- Assim como a seção anterior foi mais a receita do bolo, entender a sintaxe necessária para realizar a ação necessária na busca do banco.
 
 </details>
 
