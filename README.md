@@ -27,7 +27,7 @@
 
 # Desafios
 
-- Mesmo absorvendo todo conteúdo do curso, não melhor forma de consolidar se não aplicando na prática, a atividade promoveu bem, queries necessários no dia a dia.
+- Mesmo absorvendo todo conteúdo do curso, nada melhor para consolidar um conhecimento como aplicando na prática, a atividade promoveu bem, queries necessários no dia a dia.
 
 # Conclusão
 
